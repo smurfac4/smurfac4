@@ -4,11 +4,23 @@
 
 ## Hi, I'm Alex
 
-This profile brings together my web application and networking work, alongside an educational platform repository. Start with the three projects below.
+This profile brings together my web application and networking work, alongside an educational platform repository. Start with the four projects below.
 
 ## Selected projects
 
-### 01 / KEYSPACE — Game-key marketplace
+### 01 / CrossPost Studio — Graduation project
+
+My ongoing graduation project: a content publishing workspace with drafts, scheduling, channel connections and Twitch clip processing. FastAPI services coordinate isolated user workspaces, background deliveries and FFmpeg video workflows.
+
+**Python · FastAPI · FFmpeg · Celery · Redis · Docker**
+
+[![CrossPost Studio landing page](https://raw.githubusercontent.com/smurfac4/crosspost-studio/main/docs/screenshots/landing-preview.png)](https://github.com/smurfac4/crosspost-studio)
+
+[Explore the source code](https://github.com/smurfac4/crosspost-studio) · [Workspace screenshots](https://github.com/smurfac4/crosspost-studio#workspace-and-tools)
+
+In development. The README documents current verification and the limits of live platform integrations. Working configuration and operational data remain private.
+
+### 02 / KEYSPACE — Game-key marketplace
 
 A full-stack storefront with catalog filters, typo-tolerant search, seller comparison, accounts and simulated checkout.
 
@@ -20,7 +32,7 @@ A full-stack storefront with catalog filters, typo-tolerant search, seller compa
 
 Demo payments and non-redeemable keys. Free hosting may take time to wake up.
 
-### 02 / iRunner 2 — Programming education
+### 03 / iRunner 2 — Programming education
 
 A course and contest management platform with a problem archive and automated judging of student submissions. This repository preserves an existing project's authorship and history; see its README for provenance and legacy setup notes.
 
@@ -30,7 +42,7 @@ A course and contest management platform with a problem archive and automated ju
 
 [Explore the repository](https://github.com/smurfac4/irunner2)
 
-### 03 / Northline — VPN & Telegram Mini App
+### 04 / Northline — VPN & Telegram Mini App
 
 A Telegram bot and Mini App for device VPN and Telegram proxy access, with profile management and isolated availability checks.
 
