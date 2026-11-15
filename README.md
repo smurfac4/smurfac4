@@ -7,21 +7,21 @@
 
 ## Hi, I'm Alex
 
-I build web applications, backend services and networking tools. This profile highlights selected projects across content automation, full-stack development, programming education and VPN infrastructure.
+I build web applications, backend services, automation tools and networking projects. I enjoy taking ideas from a working prototype to a polished, maintainable product.
 
 ## Featured projects
 
 ### 01 / CrossPost Studio — Content publishing & video automation
 
-An ongoing graduation project: a publishing workspace for managing media, drafts, connected channels and scheduled delivery, with a dedicated Twitch clip workflow powered by FFmpeg.
+A publishing workspace for managing media, drafts, connected channels and scheduled delivery, with a dedicated Twitch clip workflow powered by FFmpeg.
 
 **Python · FastAPI · SQLAlchemy · Celery · Redis · PostgreSQL · Docker · FFmpeg**
 
 <p align="center"><a href="https://github.com/smurfac4/crosspost-studio"><img src="assets/crosspost-en.svg" alt="CrossPost Studio — content publishing and video automation" width="100%"></a></p>
 
-[Explore the source code](https://github.com/smurfac4/crosspost-studio) · [Workspace screenshots](https://github.com/smurfac4/crosspost-studio#workspace-and-tools) · [Verification notes](https://github.com/smurfac4/crosspost-studio/blob/main/docs/VERIFICATION.md)
+[Source code](https://github.com/smurfac4/crosspost-studio) · [Workspace screenshots](https://github.com/smurfac4/crosspost-studio#workspace-and-tools) · [Verification notes](https://github.com/smurfac4/crosspost-studio/blob/main/docs/VERIFICATION.md)
 
-*In development.* Platform publication depends on account access and provider permissions. Automated adapter tests use simulated responses; they do not guarantee live publication.
+*In development. Live publishing depends on account access and provider permissions.*
 
 ### 02 / KEYSPACE — Game-key marketplace
 
@@ -31,25 +31,25 @@ A full-stack storefront with catalog filters, typo-tolerant search, seller compa
 
 <p align="center"><a href="https://github.com/smurfac4/game-key-marketplace"><img src="https://raw.githubusercontent.com/smurfac4/game-key-marketplace/main/docs/screenshots/homepage.png" alt="KEYSPACE marketplace homepage" width="100%"></a></p>
 
-[Explore the code](https://github.com/smurfac4/game-key-marketplace) · [Open demo](https://keyspace-smurfac4.onrender.com)
+[Source code](https://github.com/smurfac4/game-key-marketplace) · [Live demo](https://keyspace-smurfac4.onrender.com)
 
-*Demo payments and non-redeemable keys only.* Free hosting may take time to wake up.
+*Demo checkout only; no real payments or redeemable keys.*
 
-### 03 / Northline — VPN & Telegram Mini App
+### 03 / Northline VPN — VPN infrastructure & Telegram Mini App
 
-A Python Telegram bot and Mini App for device-wide VPN access and Telegram-only proxy connections. The backend manages profiles, server catalogs, availability checks and administration.
+A Python Telegram bot and Mini App for managing VPN profiles and Telegram proxy connections. The backend includes server catalogs, availability checks and administration.
 
 **Python · Telegram Mini Apps · Docker · OpenVPN · WireGuard · MTProto**
 
-<p align="center"><a href="https://github.com/smurfac4/northline-vpn-bot"><img src="https://raw.githubusercontent.com/smurfac4/northline-vpn-bot/main/docs/images/overview.svg" alt="Northline VPN and Telegram Mini App project overview" width="100%"></a></p>
+<p align="center"><a href="https://github.com/smurfac4/northline-vpn-bot"><img src="assets/northline-orange.svg" alt="Northline VPN — orange concept banner and Mini App mockup" width="100%"></a></p>
 
-[Explore the source code](https://github.com/smurfac4/northline-vpn-bot) · [Architecture and setup](https://github.com/smurfac4/northline-vpn-bot#readme)
+[Source code](https://github.com/smurfac4/northline-vpn-bot) · [Architecture and setup](https://github.com/smurfac4/northline-vpn-bot#readme)
 
-The illustration is a project overview, not a screenshot of a live account. Public server availability is not guaranteed.
+*The banner is a visual concept, not a screenshot of a live service.*
 
 ### 04 / iRunner 2 — Programming education
 
-A Django-based platform for programming courses, contests and automated judging. This repository extends an existing project while preserving its original authorship and history.
+A Django-based platform for programming courses, contests and automated judging.
 
 **Python · Django · Docker · Automated judging**
 
@@ -57,7 +57,7 @@ A Django-based platform for programming courses, contests and automated judging.
 
 [Explore the repository](https://github.com/smurfac4/irunner2)
 
-## Other work
+## More projects
 
 - [API Dashboard](https://github.com/smurfac4/api_dashboard) — Rails API and multi-organization administration dashboard.
 - [To-Do App](https://github.com/smurfac4/to_do_app) — Rails task manager with priorities, deadlines and comments.
