@@ -25,15 +25,15 @@ A publishing workspace for managing media, drafts, connected channels and schedu
 
 ### 02 / KEYSPACE — Game-key marketplace
 
-A full-stack storefront with catalog filters, typo-tolerant search, seller comparison, accounts and simulated checkout.
+A full-stack game-key marketplace with catalog filters, typo-tolerant search, seller comparison, accounts and simulated checkout.
 
 **React · TypeScript · Go · PostgreSQL**
 
-<p align="center"><a href="https://github.com/smurfac4/game-key-marketplace"><img src="https://raw.githubusercontent.com/smurfac4/game-key-marketplace/main/docs/screenshots/homepage.png" alt="KEYSPACE marketplace homepage" width="100%"></a></p>
+<p align="center"><a href="https://github.com/smurfac4/game-key-marketplace"><img src="assets/keyspace-ad.svg" alt="KEYSPACE — Discover. Compare. Play. Promotional gaming banner" width="100%"></a></p>
 
-[Source code](https://github.com/smurfac4/game-key-marketplace) · [Live demo](https://keyspace-smurfac4.onrender.com)
+[Source code](https://github.com/smurfac4/game-key-marketplace) · [Live demo](https://keyspace-smurfac4.onrender.com) · [Real product screenshots](https://github.com/smurfac4/game-key-marketplace#screenshots)
 
-*Demo checkout only; no real payments or redeemable keys.*
+*Promotional concept artwork; see the repository for real application screenshots. Demo checkout only — no real payments or redeemable keys.*
 
 ### 03 / Northline VPN — VPN infrastructure & Telegram Mini App
 
