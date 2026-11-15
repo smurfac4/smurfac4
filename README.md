@@ -36,8 +36,8 @@ A Telegram bot and Mini App for device VPN and Telegram proxy access, with profi
 
 **Python · Telegram Mini Apps · Docker · Networking**
 
-[![Northline architecture overview](https://raw.githubusercontent.com/smurfac4/northline-vpn-showcase/main/docs/images/overview.svg)](https://github.com/smurfac4/northline-vpn-showcase)
+[![Northline architecture overview](https://raw.githubusercontent.com/smurfac4/northline-vpn-bot/main/docs/images/overview.svg)](https://github.com/smurfac4/northline-vpn-bot)
 
-[Explore the source code](https://github.com/smurfac4/northline-vpn-showcase)
+[Explore the source code](https://github.com/smurfac4/northline-vpn-bot)
 
 Public source code is available. Production credentials, user data and operational history remain private.
