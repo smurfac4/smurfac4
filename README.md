@@ -38,6 +38,6 @@ A Telegram bot and Mini App for device VPN and Telegram proxy access, with profi
 
 [![Northline architecture overview](https://raw.githubusercontent.com/smurfac4/northline-vpn-showcase/main/docs/images/overview.svg)](https://github.com/smurfac4/northline-vpn-showcase)
 
-[Explore the public overview](https://github.com/smurfac4/northline-vpn-showcase)
+[Explore the source code](https://github.com/smurfac4/northline-vpn-showcase)
 
-The working repository and operational data are private.
+Public source code is available. Production credentials, user data and operational history remain private.
