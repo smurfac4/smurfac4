@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="760" viewBox="0 0 1440 760">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fbfcf5"/><stop offset="1" stop-color="#f0f3df"/></linearGradient>
+  <linearGradient id="lime" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e7f34b"/><stop offset="1" stop-color="#c9df25"/></linearGradient>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#35401b" flood-opacity=".12"/></filter>
+</defs>
+<rect width="1440" height="760" rx="30" fill="url(#bg)"/>
+<g font-family="Inter,Arial,sans-serif">
+  <text x="78" y="82" fill="#20251a" font-size="26" font-weight="700">✳ CrossPost Studio</text>
+  <text x="1360" y="82" text-anchor="end" fill="#707762" font-size="16" letter-spacing="3">CONTENT WORKFLOW / 01</text>
+  <line x1="78" y1="112" x2="1362" y2="112" stroke="#d9dfc9"/>
+  <text x="90" y="226" fill="#7a872a" font-size="17" letter-spacing="5">CREATE · SCHEDULE · PUBLISH</text>
+  <text x="86" y="326" fill="#20251a" font-size="76" font-weight="700">One workspace.</text>
+  <text x="86" y="414" fill="#20251a" font-size="76" font-weight="700">Every channel.</text>
+  <text x="92" y="476" fill="#65705a" font-size="24">A publishing studio with media tools, background jobs</text>
+  <text x="92" y="512" fill="#65705a" font-size="24">and a dedicated video workflow.</text>
+  <rect x="92" y="566" width="230" height="58" rx="14" fill="url(#lime)"/>
+  <text x="207" y="603" text-anchor="middle" fill="#20251a" font-size="18" font-weight="700">PROJECT IN DEVELOPMENT</text>
+  <g filter="url(#shadow)">
+    <rect x="790" y="168" width="520" height="430" rx="28" fill="#fff" stroke="#e2e7d6"/>
+    <rect x="822" y="200" width="456" height="54" rx="13" fill="#f7f8f1"/>
+    <circle cx="850" cy="227" r="7" fill="#d9ed3e"/><circle cx="874" cy="227" r="7" fill="#d9ed3e" opacity=".65"/><circle cx="898" cy="227" r="7" fill="#d9ed3e" opacity=".35"/>
+    <text x="944" y="233" fill="#424a35" font-size="16">Publishing workspace</text>
+    <rect x="822" y="280" width="210" height="132" rx="16" fill="#eff3dc"/>
+    <rect x="1048" y="280" width="230" height="132" rx="16" fill="#f7f8f1"/>
+    <rect x="822" y="428" width="456" height="136" rx="16" fill="#f7f8f1"/>
+    <text x="846" y="315" fill="#78852c" font-size="14" letter-spacing="2">DRAFTS</text>
+    <text x="846" y="358" fill="#252b1e" font-size="24" font-weight="700">12 posts</text>
+    <text x="846" y="386" fill="#707762" font-size="14">Ready for review</text>
+    <text x="1072" y="315" fill="#78852c" font-size="14" letter-spacing="2">SCHEDULED</text>
+    <text x="1072" y="358" fill="#252b1e" font-size="24" font-weight="700">08 posts</text>
+    <text x="1072" y="386" fill="#707762" font-size="14">Across connected channels</text>
+    <text x="846" y="466" fill="#78852c" font-size="14" letter-spacing="2">VIDEO WORKFLOW</text>
+    <rect x="846" y="486" width="300" height="12" rx="6" fill="#e4e9d5"/>
+    <rect x="846" y="486" width="214" height="12" rx="6" fill="#d5e83c"/>
+    <text x="846" y="532" fill="#707762" font-size="14">Clip processing · FFmpeg · Background delivery</text>
+  </g>
+  <text x="90" y="704" fill="#879078" font-size="14" letter-spacing="3">PYTHON · FASTAPI · CELERY · REDIS · FFMPEG</text>
+  <text x="1350" y="704" text-anchor="end" fill="#879078" font-size="14">SMURFAC4 / PROJECT PORTFOLIO</text>
+</g></svg>
