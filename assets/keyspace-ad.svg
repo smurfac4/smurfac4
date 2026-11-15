@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050510"/><stop offset=".55" stop-color="#171044"/><stop offset="1" stop-color="#090817"/></linearGradient>
+ <linearGradient id="violet" x1="0" x2="1"><stop stop-color="#8b5cff"/><stop offset="1" stop-color="#d5a2ff"/></linearGradient>
+ <linearGradient id="orange" x1="0" x2="1"><stop stop-color="#ff8a24"/><stop offset="1" stop-color="#ffcf67"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#874cff" stop-opacity=".65"/><stop offset="1" stop-color="#874cff" stop-opacity="0"/></radialGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="24"/></filter>
+</defs>
+<rect width="1200" height="400" rx="22" fill="url(#bg)"/>
+<circle cx="920" cy="175" r="270" fill="url(#glow)"/>
+<circle cx="1080" cy="360" r="150" fill="#ff6d18" opacity=".18" filter="url(#blur)"/>
+<path d="M650 0Q790 80 900 10T1200 35M670 400Q850 270 1000 360T1200 300" fill="none" stroke="#9d6cff" stroke-width="2" opacity=".35"/>
+<g opacity=".45" fill="none" stroke="#8d6cff"><circle cx="940" cy="178" r="145"/><circle cx="940" cy="178" r="176" stroke-dasharray="3 10"/></g>
+<g transform="translate(62 56)" font-family="Arial,sans-serif">
+ <circle cx="48" cy="28" r="25" fill="none" stroke="url(#violet)" stroke-width="5"/><path d="M23 30Q47 -1 75 22Q55 55 23 30Z" fill="none" stroke="#c7a2ff" stroke-width="4"/><circle cx="48" cy="28" r="7" fill="#ff9c35"/>
+ <text x="92" y="44" font-size="42" font-weight="800" letter-spacing="2" fill="#fff">KEY<tspan fill="url(#violet)">SPACE</tspan></text>
+ <text x="2" y="111" fill="#d7ccff" font-size="14" letter-spacing="5">GAME KEY MARKETPLACE</text>
+ <text x="0" y="190" fill="#fff" font-size="39" font-weight="800">DISCOVER. COMPARE.</text><text x="0" y="237" fill="url(#violet)" font-size="48" font-weight="900">PLAY.</text>
+ <text x="2" y="272" fill="#c4bddb" font-size="17">Your next game starts here.</text>
+ <g transform="translate(0 307)">
+  <path d="M0 0h170" stroke="#6f59b7"/><text x="0" y="23" fill="#ffb04b" font-size="13" letter-spacing="1">INSTANT ACCESS</text>
+  <path d="M196 0h170" stroke="#6f59b7"/><text x="196" y="23" fill="#ffb04b" font-size="13" letter-spacing="1">SELLER COMPARISON</text>
+  <path d="M392 0h170" stroke="#6f59b7"/><text x="392" y="23" fill="#ffb04b" font-size="13" letter-spacing="1">GREAT GAME DEALS</text>
+ </g>
+</g>
+<g transform="translate(700 78) rotate(-7 190 130)">
+ <rect x="0" y="0" width="210" height="265" rx="16" fill="#111126" stroke="#9b72ff" stroke-width="2"/>
+ <rect x="14" y="14" width="182" height="148" rx="10" fill="#31205e"/>
+ <path d="M14 137L67 60 105 112 148 38 196 105V162H14Z" fill="#a67aff" opacity=".7"/>
+ <circle cx="147" cy="56" r="22" fill="#ffb44b" opacity=".85"/>
+ <text x="17" y="191" fill="#fff" font-size="17" font-weight="700">EPIC ADVENTURES</text><text x="17" y="218" fill="#bca9ff" font-size="12">PC GAME KEYS</text><text x="17" y="246" fill="#ffb34d" font-size="20" font-weight="700">FROM €12.99</text>
+</g>
+<g transform="translate(938 105) rotate(8 105 120)">
+ <rect x="0" y="0" width="205" height="250" rx="16" fill="#121126" stroke="#ff9c3c" stroke-width="2"/>
+ <rect x="13" y="13" width="179" height="137" rx="10" fill="#56254a"/>
+ <path d="M13 140L53 70 93 113 143 39 192 108V150H13Z" fill="#ff7c42" opacity=".75"/>
+ <circle cx="142" cy="49" r="21" fill="#ffd071"/>
+ <text x="17" y="180" fill="#fff" font-size="16" font-weight="700">NEW RELEASES</text><text x="17" y="205" fill="#c9b9e8" font-size="12">COMPARE OFFERS</text><text x="17" y="233" fill="#ffb34d" font-size="18" font-weight="700">SHOP SMARTER</text>
+</g>
+<g transform="translate(790 318)" fill="none" stroke="#c2a3ff" stroke-width="5" stroke-linecap="round">
+ <path d="M0 22Q10 -5 35 0L80 8Q96 11 104 30L115 55Q120 75 98 76L73 62H35L13 76Q-8 75 -4 53Z"/>
+ <path d="M26 25h26M39 12v26M82 25h1M97 39h1" stroke="#ffad48"/>
+</g>
+<text x="1140" y="378" text-anchor="end" font-family="Arial,sans-serif" font-size="11" fill="#9e91c4" letter-spacing="3">SMURFAC4 / KEYSPACE</text>
+</svg>
